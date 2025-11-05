@@ -4,8 +4,7 @@ This repository contains a free, 1-page demo (`index.html`) of the **Ultimate AI
 
 This template is built with clean HTML and Tailwind CSS, designed to help you launch your AI or SaaS product in 1 hour, not 3 weeks.
 
-![Website Toolkit Preview](https://i.imgur.com/your-image-url.png) 
-*(Note: Main yahaan aapki Gumroad cover pic ka link daal raha hoon. Yeh automatic dikhegi)*
+<img src="https://gumroad-files.s3.amazonaws.com/4311871146777/2db8c1b857734898b0f8546b3f9b2d35/original/Screenshot_2025-11-04_14_03_48.jpg" alt="AI SaaS Website Toolkit Preview">
 <img src="https://gumroad-files.s3.amazonaws.com/4311871146777/2db8c1b857734898b0f8546b3f9b2d35/original/Screenshot_2025-11-04_14_03_48.jpg" alt="AI SaaS Website Toolkit Preview">
 
 
